@@ -2,7 +2,7 @@
 layout: post
 title:  "Analyzing Emotional Content in Lyrics using DistilBERT"
 date:   2025-01-11 18:52:00 -0500
-categories: jekyll update
+categories: projects
 ---
 
 This project aimed to answer a question I was quite curious about, as an avid music listener: "How has the emotional content of lyrics in songs changed over time?" [View the full project on GitHub.](https://github.com/LeenKharboutli/lyric-emotion-analysis)
