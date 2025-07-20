@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 flex items-center justify-center space-x-1">
-            <span>© 2024 Sarah Chen. Made with</span>
+            <span>© 2024 Leen Kharboutli. Made with</span>
             <Heart size={16} className="text-red-500" />
             <span>using React & TypeScript</span>
           </p>
